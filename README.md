@@ -7,7 +7,7 @@ Optimism is a Layer 2 platform for Ethereum.
 
 Optimism is, in a nutshell, an application inside of Ethereum that executes transactions more efficiently than Ethereum itself. It's based on the concept of the [Optimistic Rollup](https://research.paradigm.xyz/rollups), a construction that allows us to "optimistically" publish transaction results without actually executing those transactions on Ethereum (most of the time). Optimism makes transactions cheaper, faster, and smarter.
 
-Please note that this repository is undergoing rapid development.
+Please note that this repository is undergoing rapid development
 
 ------
 
